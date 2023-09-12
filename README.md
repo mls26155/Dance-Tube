@@ -28,7 +28,7 @@ DanceTube is a web application that allows users to explore and share dance vide
 
 ## Getting Started
 ![image](https://github.com/mls26155/Dance-Tube/assets/101059605/deb90a6c-4f69-45c6-9d7f-b134e9137b5c)
-![image](https://github.com/mls26155/Dance-Tube/assets/101059605/a2483aa5-40ec-4873-810d-5496e2d417cc)
+![image](https://github.com/mls26155/Dance-Tube/assets/101059605/7e3105fd-a322-4d0c-a46e-c54b2878385a)
 
 To get DanceTube up and running on your local machine, follow these steps:
 
